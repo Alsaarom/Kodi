@@ -1,0 +1,86 @@
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
+#EXTM3U url-tvg="https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml"
+
+#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+
+#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
+https://livestartover-i.akamaized.net/neox/master.m3u8
+
+#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
+https://livestartover-i.akamaized.net/nova/master.m3u8
+
+#EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD
+https://livestartover-i.akamaized.net/mega/master.m3u8
+
+#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas",Atreseries HD
+https://livestartover-i.akamaized.net/geoa3series/master.m3u8
+
+#EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas",FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="Generalistas",Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Boing.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320" group-title="Infantiles",Boing HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/playzOfficial/picture?width=320&height=320" group-title="Generalistas",playz HD
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/granhermano/picture?width=320&height=320" group-title="Generalistas",Gran Hermano HD
+https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="Generalistas",Be Mad HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Disney.TDTChannelsEPG" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg" group-title="Infantiles",Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:-1 tvg-id="TDP.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",Teledeporte HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/Hispantv/picture?width=320&height=320" group-title="Internacional",Hispan TV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/ActualidadRT/picture?width=320&height=320" group-title="Internacional",RT HD (Russia Today)
+https://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-id="CMM.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/CMMediaes/picture?width=320&height=320" group-title="Castilla La-Mancha",CMM
+http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/mtmad.es/picture?width=320&height=320" group-title="Generalistas",mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="Generalistas",Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/RedBull/picture?width=320&height=320" group-title="Deportivos",Redbull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/VodafoneYU/picture?width=320&height=320" group-title="Webcams",Yu No Te Pierdas Nada HD
+https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+
+#EXTINF:-1 tvg-id="None" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320" group-title="Informativos",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
